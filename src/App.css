@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+}
+
+.app {
+  height: 100vh;
+  background: black;
+  font-family: 'DM Sans';
+  font-size: 16px;
+}
+
+#name {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.break {
+  height: 4em;
+}
+
+.main {
+  margin: auto;
+  width: 50%;
+}
+
+.welcome {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wip {
+  width: 100%;
+  padding: 0.5em;
+  color: black;
+  font-size: 1.5em;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.links {
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+}
+
+.links a:link {
+  color: white;
+}
+
+.links a:visited {
+  color: white;
+}
+
+text span {
+  display: block;
+}

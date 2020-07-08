@@ -1,0 +1,24 @@
+import React from 'react';
+import Welcome from './Welcome';
+import Wip from './Wip';
+import Links from './Links';
+
+function App() {
+
+  return (
+    <div className="app">
+      <text id="name">Julian Coronado</text>
+      <div className="break"></div>
+      <div className="main">
+        { /* Center Items on Main page */}
+        <Welcome />
+        <div className="break"></div>
+        <Wip />
+        <div className="break"></div>
+        <Links />
+      </div>
+    </div>
+  );
+}
+
+export default App;
