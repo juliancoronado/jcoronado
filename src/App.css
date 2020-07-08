@@ -9,10 +9,15 @@
   font-size: 16px;
 }
 
+#firstbreak {
+  height: 0.5em;
+}
+
 #name {
   color: white;
   font-size: 2em;
   font-weight: bold;
+  margin-left: 0.5em;
 }
 
 .break {
@@ -26,13 +31,14 @@
 
 .welcome {
   color: white;
+  width: auto;
   font-size: 2em;
   font-weight: bold;
   text-align: center;
 }
 
 .wip {
-  width: 100%;
+  width: auto;
   padding: 0.5em;
   color: black;
   font-size: 1.5em;

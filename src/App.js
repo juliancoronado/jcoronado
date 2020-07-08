@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="app">
+      <div id="firstbreak"></div>
       <text id="name">Julian Coronado</text>
       <div className="break"></div>
       <div className="main">
