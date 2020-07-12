@@ -18,6 +18,10 @@ function App() {
         <div id="projdiv">
           <Project />
           <Project />
+          <Project />
+          <Project />
+          <Project />
+          <Project />
         </div>
         <div className="break"></div>
         <Wip />
