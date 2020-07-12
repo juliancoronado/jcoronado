@@ -2,6 +2,7 @@ import React from 'react';
 import Welcome from './Welcome';
 import Wip from './Wip';
 import Links from './Links';
+import Project from './Project';
 
 function App() {
 
@@ -13,6 +14,11 @@ function App() {
       <div className="main">
         { /* Center Items on Main page */}
         <Welcome />
+        <div className="break"></div>
+        <div id="projdiv">
+          <Project />
+          <Project />
+        </div>
         <div className="break"></div>
         <Wip />
         <div className="break"></div>
