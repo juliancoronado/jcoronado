@@ -7,7 +7,7 @@ import Project from './Project';
 function App() {
 
   const [projects] = useState([
-    { name: "Tic Tac Tap", url: "url", desc: "Challenge your friends!"},
+    { name: "Tetris AI", url: "https://github.com/juliancoronado/Tetris-AI", desc: "Genetic algorithm learns to play Tetris"},
     { name: "Floppy Bird", url: "url", desc: "Not a viral sensation?"},
     { name: "Minecraft 2", url: "url", desc: "The cake is real."}
   ]);
