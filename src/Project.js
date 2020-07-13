@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function Project() {
+function Project({name, url, desc}) {
     return(
         <div className="project">
-            <text><span>Project Title</span></text>
-            <text><span>Sample Image</span></text>
-            <text><span>Description of Project</span></text>
+            <text><span>{name}</span></text>
+            <text><span>{url}</span></text>
+            <text><span>{desc}</span></text>
         </div>
     );
 }
