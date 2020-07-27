@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Welcome from './Welcome';
-import Wip from './Wip';
-import Links from './Links';
-import Project from './Project';
+import Welcome from './components/Welcome';
+import Wip from './components/Wip';
+import Links from './components/Links';
+import Project from './components/Project';
 
 function App() {
 
