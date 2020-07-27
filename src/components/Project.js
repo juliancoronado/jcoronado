@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Project.css';
 
 function Project({name, url, desc}) {
     return(

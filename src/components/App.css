@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+.app {
+  min-height: 100vh;
+  background: black;
+  font-family: 'DM Sans';
+  font-size: 16px;
+}
+
+#firstbreak {
+  height: 0.5em;
+}
+
+#name {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  margin-left: 0.5em;
+}
+
+.break {
+  height: 4em;
+}
+
+.main {
+  margin: auto;
+}
+
+#projdiv {
+  width: 100%;
+  display: inline-grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  justify-content: space-evenly;
+  row-gap: 72px;
+  column-gap: 2px;
+}
+
+text span {
+  display: block;
+}

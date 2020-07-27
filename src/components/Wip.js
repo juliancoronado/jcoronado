@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Wip.css';
 
 function Wip() {
     return(

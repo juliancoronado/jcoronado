@@ -1,0 +1,14 @@
+.links {
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    padding-bottom: 2em;
+  }
+
+  .links a:link {
+    color: white;
+  }
+  
+  .links a:visited {
+    color: white;
+  }
