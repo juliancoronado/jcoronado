@@ -2,9 +2,10 @@ import React from 'react';
 import './Welcome.css';
 
 function Welcome() {
-    return(
+    return (
         <div className="welcome">
-            <text><span>Hi, I'm Julian!</span></text>
+            <text id="line1"><span>Hi, my name is</span></text>
+            <text><span>Julian Coronado.</span></text>
             <text><span>I design and develop software.</span></text>
         </div>
     );

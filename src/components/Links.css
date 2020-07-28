@@ -1,8 +1,8 @@
 .links {
     font-size: 1.5em;
     color: white;
-    text-align: center;
-    padding-bottom: 2em;
+    text-align: left;
+    padding-top: 2vh;
   }
 
   .links a:link {

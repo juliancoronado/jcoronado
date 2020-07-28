@@ -1,11 +1,9 @@
 .wip {
-    width: 50%;
+  width: fit-content;
     padding: 0.6em;
     color: black;
     font-size: 1.5em;
     background-color: white;
     border-radius: 20px;
-    text-align: center;
-    font-weight: bold;
-    margin: 0 auto;
+    text-align: left;
   }
