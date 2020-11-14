@@ -2,10 +2,10 @@ import React from 'react';
 import './AboutMe.css';
 
 function AboutMe() {
-    return(
+    return (
         <div className="aboutme">
-            <p>I'm a Software Engineer based in Murrieta, CA<br></br>
-                specializing in building web and mobile apps.
+            <p>I'm an aspiring Product Manager based in Murrieta, CA<br></br>
+                specializing in building web and mobile products.
             </p>
         </div>
     );
