@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Welcome to my portfolio and personal website!
 My name is Julian Coronado, owner and creator of [jcoronado.dev](https://jcoronado.dev).
-I'm an apsiring Software Engineer and Product Manager with big goals and little experience.
+I'm an apsiring Product Manager with big goals and little experience.
 
 This project is how I am practicing the skills I've learned in school and adding to my experience.
 
