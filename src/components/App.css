@@ -9,7 +9,6 @@ html, body, #root, .app {
 .app {
     min-height: inherit;
     background: rgb(22, 22, 22);
-    font-family: 'DM Sans';
     font-size: 16px;
     padding: 0 10%;
 }
