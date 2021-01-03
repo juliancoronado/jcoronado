@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec6ba6358e7095ac468f073c608dda42",
+    "revision": "339a68a40b4441a78bf30bd359145b38",
     "url": "/index.html"
   },
   {
-    "revision": "ac28b25bae7b45e443a9",
-    "url": "/static/css/main.772efc93.chunk.css"
+    "revision": "8d0b0a19df6aeef078b2",
+    "url": "/static/css/main.bb1e661b.chunk.css"
   },
   {
     "revision": "2aa5a29268fed183ffae",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2da97c97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac28b25bae7b45e443a9",
+    "revision": "8d0b0a19df6aeef078b2",
     "url": "/static/js/main.8b0bc609.chunk.js"
   },
   {
     "revision": "e3473a344493b6ab086d",
     "url": "/static/js/runtime-main.21e4bbbf.js"
+  },
+  {
+    "revision": "a9faa3e7843c86bd8693aa685101332b",
+    "url": "/static/media/Manrope-Regular.a9faa3e7.ttf"
   }
 ]);
