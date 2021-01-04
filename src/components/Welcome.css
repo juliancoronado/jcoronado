@@ -1,13 +1,16 @@
 .welcome {
     color: white;
     width: auto;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: bold;
     text-align: left;
     padding-top: 10vh;
   }
 
+  #nameline {
+    font-size: xxx-large;
+  }
+
   #line1 {
     font-weight: normal;
-    font-size: large;
   }

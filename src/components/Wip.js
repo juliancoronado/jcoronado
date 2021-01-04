@@ -4,8 +4,7 @@ import './Wip.css';
 function Wip() {
     return (
         <div className="wip">
-            <text><span>My portfolio is currently being developed.</span></text>
-            <text><span>Please check back later! (Last Updated: 11/13/2020)</span></text>
+            <text>Updated: January 3rd, 2021</text>
         </div>
     );
 }

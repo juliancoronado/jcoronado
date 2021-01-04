@@ -1,16 +1,10 @@
-body  {    
+body {    
     margin: 0 !important;
 }
 
-html, body, #root, .app {
-    height: 100%;
-  }
-
 .app {
-    min-height: inherit;
-    background: rgb(22, 22, 22);
     font-size: 16px;
-    padding: 0 10%;
+    padding: 0 10% 10%;
 }
 
 text span {
