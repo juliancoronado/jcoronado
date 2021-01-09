@@ -3,7 +3,7 @@
     src: url('./fonts/Manrope-Regular.ttf')
 }
 
-p, text {
+p, text, h1, h2, h3, h4{
     font-family: 'Manrope', 'DM Sans', sans-serif;
 }
 

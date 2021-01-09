@@ -4,7 +4,7 @@ import React from 'react';
 import Welcome from './Welcome';
 import Wip from './Wip';
 import Links from './Links';
-import Projects from './Projects';
+import ProjectSection from './ProjectSection';
 import AboutMe from './AboutMe';
 
 import './App.css'
@@ -15,7 +15,7 @@ function App() {
     <div className="app">
       <Welcome />
       <AboutMe />
-      <Projects />
+      <ProjectSection />
       <Wip />
       <Links />
     </div>

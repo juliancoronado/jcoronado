@@ -7,10 +7,10 @@
     padding-top: 10vh;
   }
 
-  #nameline {
-    font-size: xxx-large;
+  #greeting {
+    font-weight: normal;
   }
 
-  #line1 {
-    font-weight: normal;
+  #nameline {
+    font-size: xxx-large;
   }

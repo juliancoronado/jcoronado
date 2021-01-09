@@ -4,7 +4,7 @@ import './Wip.css';
 function Wip() {
     return (
         <div className="wip">
-            <text>Updated: January 3rd, 2021</text>
+            <text>Updated: January 9th, 2021</text>
         </div>
     );
 }
