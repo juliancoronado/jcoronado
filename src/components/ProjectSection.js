@@ -8,7 +8,6 @@ function ProjectSection() {
             <h2>Projects</h2>
 
             < Project title="Work in Progress" description="Placeholder description" link="/"/>
-            < Project title="Work in Progress" description="Placeholder description" link="/"/>
             
         </div>
     );

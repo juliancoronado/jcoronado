@@ -6,6 +6,7 @@ import Wip from './Wip';
 import Links from './Links';
 import ProjectSection from './ProjectSection';
 import AboutMe from './AboutMe';
+import Donate from './Donate';
 
 import './App.css'
 
@@ -16,8 +17,9 @@ function App() {
       <Welcome />
       <AboutMe />
       <ProjectSection />
-      <Wip />
       <Links />
+      <Donate />
+      <Wip />
     </div>
   );
 }

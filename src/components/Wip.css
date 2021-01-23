@@ -1,6 +1,7 @@
 .wip {
   width: fit-content;
     padding: 0.5em;
+    margin-top: 1vh;
     color: black;
     font-size: x-large;
     background-color: white;
