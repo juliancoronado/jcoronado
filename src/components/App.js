@@ -18,7 +18,8 @@ function App() {
       <AboutMe />
       <ProjectSection />
       <Links />
-      <Donate />
+      {/* <Donate /> */}
+      <br></br>
       <Wip />
     </div>
   );
