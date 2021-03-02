@@ -1,12 +1,11 @@
 import React from 'react';
 
 // Components imports
-import Welcome from './Welcome';
-import Wip from './Wip';
-import Links from './Links';
-import ProjectSection from './ProjectSection';
-import AboutMe from './AboutMe';
-import Donate from './Donate';
+import Welcome from './Welcome/Welcome';
+import Wip from './Wip/Wip';
+import Links from './Links/Links';
+import ProjectSection from './ProjectSection/ProjectSection';
+import AboutMe from './AboutMe/AboutMe';
 
 import './App.css'
 
