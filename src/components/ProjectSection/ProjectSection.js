@@ -7,7 +7,15 @@ function ProjectSection() {
         <div className="projectsection">
             <h2>Projects</h2>
 
-            < Project title="Work In Progress" description="Placeholder description" link="/"/>
+            < Project
+            title="Minimal Bitcoin Widget"
+            description="A beautiful Android home screen widget that displays the current price of Bitcoin."
+            link="https://github.com/juliancoronado/MinimalBitcoinWidget"/>
+
+            < Project
+            title="More Projects Coming Soon!"
+            description=""
+            link="/"/>
             
         </div>
     );
