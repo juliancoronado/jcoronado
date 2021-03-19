@@ -12,10 +12,7 @@ function ProjectSection() {
             description="A beautiful Android home screen widget that displays the current price of Bitcoin."
             link="https://github.com/juliancoronado/MinimalBitcoinWidget"/>
 
-            < Project
-            title="More Projects Coming Soon!"
-            description=""
-            link="/"/>
+            <h4>More projects coming soon!</h4>
             
         </div>
     );
