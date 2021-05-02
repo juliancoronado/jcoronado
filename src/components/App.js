@@ -2,7 +2,6 @@ import React from 'react';
 
 // Components imports
 import Welcome from './Welcome/Welcome';
-import Wip from './Wip/Wip';
 import Links from './Links/Links';
 import ProjectSection from './ProjectSection/ProjectSection';
 import AboutMe from './AboutMe/AboutMe';
@@ -19,7 +18,7 @@ function App() {
       <Links />
       {/* <Donate /> */}
       <br></br>
-      <Wip />
+      {/* <Wip /> */}
     </div>
   );
 }
