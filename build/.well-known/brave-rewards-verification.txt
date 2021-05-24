@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: jcoronado.dev
-Token: 5d02c89041e7a7bb1b098a1d5cae364cf2c8e8a595293648a845aa7ee7be70ef
