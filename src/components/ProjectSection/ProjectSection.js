@@ -11,6 +11,11 @@ function ProjectSection() {
             title="Minimal Bitcoin Widget"
             description="A minimal Android home-screen widget that displays the current price of Bitcoin."
             link="https://github.com/juliancoronado/MinimalBitcoinWidget"/>
+
+            < Project
+            title="Cafe Buddy (Under Development)"
+            description="A mobile app to catalog your favorite menu items from places you visit."
+            link=""/>
             
         </div>
     );
